@@ -19,3 +19,15 @@
 **After:**
 
 ![zerodha-kite-use-full-width-screenshot-after](assets/img/zerodha-kite-use-full-width-screenshot-after.png "After")
+
+## [MCX Bhavcopy Datatables](https://cdn.jsdelivr.net/gh/codeaditya/browser-userscripts@main/mcx-bhavcopy-datatables.js)
+
+- Renders the Bhavcopy data on MCX using datatables to efficiently search and sort the data.
+
+**Default:**
+
+![mcx-bhavcopy-datatables-screenshot-default](assets/img/mcx-bhavcopy-datatables-screenshot-default.png "Default")
+
+**Using DataTables:**
+
+![mcx-bhavcopy-datatables-screenshot-using-datatables](assets/img/mcx-bhavcopy-datatables-screenshot-using-datatables.png "Using DataTables")
